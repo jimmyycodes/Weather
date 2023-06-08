@@ -8,11 +8,7 @@ import org.json.simple.JSONArray;
 import org.json.simple.JSONObject;
 import org.json.simple.parser.JSONParser;
 
-/*
- * Jimmy Le
- * This program uses bigData to find the current weather data for a specific city. It has a method called CityWeather that will calculate
- * the specific city weather data and returns true if it has, else it will return false. 
- */
+
 public class Weather211 {
 	private static HashMap<String, String> cityWeather = new HashMap<>();
 	static Date date;
