@@ -10,7 +10,6 @@ import org.json.simple.parser.JSONParser;
 
 /*
  * Jimmy Le
- * 202457646
  * This program uses bigData to find the current weather data for a specific city. It has a method called CityWeather that will calculate
  * the specific city weather data and returns true if it has, else it will return false. 
  */
